@@ -1,5 +1,7 @@
 ####### NOTES #######
 
+NOTE: Run it in your local environment!
+
 1. Import the database on your PhpMyAdmin. It is in the Data_base folder, "test.sql".
 
 2. Add your own .env file using the format in .env.exampe. Setup your Database in .env file. Make sure your credentials are correct.
